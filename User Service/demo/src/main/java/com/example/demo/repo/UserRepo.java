@@ -1,3 +1,4 @@
+/*
 package com.example.demo.repo;
 
 import com.example.demo.entity.UserEntity;
@@ -8,3 +9,4 @@ import org.springframework.stereotype.Repository;
 
 public interface UserRepo extends JpaRepository<UserEntity,String> {
 }
+*/
